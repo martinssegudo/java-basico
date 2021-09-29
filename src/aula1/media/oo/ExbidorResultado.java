@@ -1,4 +1,4 @@
-package exemplo.oo;
+package aula1.media.oo;
 
 public class ExbidorResultado {
 
